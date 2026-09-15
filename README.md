@@ -1,38 +1,25 @@
-﻿# Taller Mecánico 114-2A-F2
+# Taller Mecánico (114-2A-f2)
 
-Repositorio del proyecto y bitácora de actividades del módulo **Taller Mecánico 114-2A-F2**.
+## 📌 Bitácora del Módulo
 
----
-
-## 📋 Información General
-- **Módulo / Curso:** Taller Mecánico 114-2A-F2
-- **Estado del Proyecto:** En desarrollo
-- **Participantes / Integrantes:**
-  - *Pendiente de registrar*
+### Información General
+- **Módulo / Código:** 114-2A-f2
+- **Proyecto:** Taller Mecánico
+- **Fecha de inicio:** 2026-09-02
+- **Estudiante / Responsable:** Viviana Nuñez
 
 ---
 
-## 🎯 Objetivos del Módulo
-1. Desarrollar las competencias técnicas requeridas para el módulo.
-2. Registrar y dar seguimiento al progreso de las actividades y prácticas del taller.
-3. Mantener un control de versiones y documentación ordenada de cada sesión.
+### 📝 Registro de Actividades
+
+| Sesión | Fecha | Descripción de Actividad | Responsable | Estado |
+| :---: | :---: | :--- | :--- | :--- |
+| 1 | 2026-09-02 | Inicialización de repositorio y bitácora | Viviana Nuñez | ✅ Completado |
+| 2 | 2026-09-07 | Creación de clase base `Vehiculo` en `vehiculo.py`, definición del constructor `__init__` con atributos (`patente`, `anio`, `_en_taller`), y métodos `ingresar()` y `entregar()`. | Viviana Nuñez | ✅ Completado |
 
 ---
 
-## 📓 Bitácora de Actividades
-
-| Fecha | Sesión / Actividad | Descripción de Tareas Realizadas | Responsable(s) | Estado |
-| :---: | :---: | :--- | :---: | :---: |
-| 02/09/2026 | Inicialización | Creación del repositorio, configuración inicial y plantilla de bitácora. | Equipo | ✅ Completado |
-| - | - | - | - | ⏳ Pendiente |
-
----
-
-## 🛠️ Herramientas y Tecnologías
-- Git & GitHub
-- Markdown (Documentación)
-
----
-
-## 📌 Notas y Observaciones
-- *Espacio reservado para notas técnicas, acuerdos de equipo o instrucciones específicas del docente.*
+### 🎯 Objetivos y Pendientes
+- [x] Creación de repositorio y estructura inicial.
+- [x] Creación de la clase base `Vehiculo` con atributos y métodos de estado (`ingresar`, `entregar`).
+- [ ] Definición de requerimientos del sistema y subclases/módulos adicionales.
